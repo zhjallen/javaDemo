@@ -1,0 +1,5 @@
+## 家乡属性
+home:
+   provice: 河南省
+   city: 焦作
+   dese: 我家在${home.provice}${home.city}
